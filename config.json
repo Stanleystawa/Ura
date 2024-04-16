@@ -13,11 +13,11 @@
 		"fca-umaru-v1",
 		"fca-umaru-v2"
 	],
-	"botname": "Umaru",
-	"prefix": "/",
+	"botname": "Stanley bot 😊",
+	"prefix": "@",
 	"nickname": "》 {prefix} 《 ❃ ➠ {botname} ",
 	"adminbot": [
-		"100052086120278"
+		"100078426361784"
 	],
 	"RankupMode": "canvas",
 	"WelcomeMode": "canvas",
@@ -49,7 +49,7 @@
 	"Owner": "John Lester",
 	"Age": 16,
 	"Gender": "Male",
-	"Facebook": "https://www.facebook.com/rootalocalhost.dev",
+	"Facebook": "https://www.facebook.com/profile.php?id=100078426361784",
 	"cmd_not_found": "Command {{1}} not found\nUse {{2}} to display all commands is that {{3}} or not?",
 	"permission_1": "⚠️ You don't have permission to use \"{{1}}\". Only group admin can use this command.",
 	"permission_2": "⚠️ You don't have permission to use \"{{1}}\". Only system admin can use this command.",
